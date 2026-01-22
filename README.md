@@ -241,7 +241,8 @@ If you see a message like _“No Python interpreter found”_, click **Select Py
 Interpreter** and choose `.venv/bin/python` (Mac/Linux) or
 `.venv\\Scripts\\python.exe` (Windows).
 
-If you see an error, close VS Code, reopen it, and try again.
+If you see an error, close VS Code, reopen it, and try again. And check section 8, 
+it talks about the most common errors!
 
 ---
 
