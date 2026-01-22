@@ -263,8 +263,8 @@ it talks about the most common errors!
 If everything is correct, you will see:
 
 - printed Python and package versions,
-- small charts and text outputs, and
-- new files inside the `test_output/` folder.
+- small charts and text outputs,
+- a summary telling you everything is ok.
 
 Your setup is now complete.
 
